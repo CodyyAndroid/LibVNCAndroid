@@ -6,5 +6,4 @@
 /.gradle/*
 /.idea
 /.idea/*
-/gradle
 /*.iml
