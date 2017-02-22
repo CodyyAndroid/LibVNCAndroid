@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true"
+    android:layout_weight="1.0"
+    android:background="@color/white" > 
+	<LinearLayout
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical">
+	    
+	<TextView
+    android:id="@+id/titlegeneral"
+    style="?android:attr/listSeparatorTextViewStyle"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/titlegeneral" />
+		<Switch 
+		    android:id="@+id/checkbox_remember"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_gravity="center"
+		    android:layout_marginTop="15dp"
+		    android:text="@string/remember_exit"
+		    android:textOn="@string/yes"
+		    android:textOff="@string/no"
+		    android:onClick="onToggleClicked" />
+		
+	<TextView
+    android:id="@+id/titlecontrol"
+    style="?android:attr/listSeparatorTextViewStyle"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/titlecontrol" />
+
+	<Switch
+	    android:id="@+id/checkbox_hidemouse"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_marginTop="25dp"
+	    android:onClick="onToggleClicked"
+	    android:text="@string/hide_mouse"
+	    android:textOff="@string/no"
+	    android:textOn="@string/yes"
+	    android:layout_gravity="center" />
+	
+	</LinearLayout>
+</ScrollView> 

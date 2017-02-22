@@ -1,0 +1,2 @@
+include ':slideLibrary', ':example'
+include ':library'

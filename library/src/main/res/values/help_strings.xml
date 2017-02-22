@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+<string name="help_page_intro">VNCpp\n Help page</string>
+
+    <string name="title_section1">How to use - Main-</string>
+    <string name="text_section1">
+     To create a new connection, click over the icon "+" on the upper action bar.
+     Once you are in, it is necessary to specify the IP server and the ID connection name.\n
+     The default port is 5900, being able to be changed.\n
+     The password is optional, if it is not introduced and is required, you will be asked in the middle of the connection.\n	
+     The pull-down quality menu will be used to indicate the quality of the image.\n
+    </string>
+
+<string name="title_section2">Pull-down Options</string>
+    <string name="text_section2">
+    The setting option is able, through two selection switchs, to set if you want or you don\'t want to remember the (option of leaving the page) and the possibility of hiding the cursor or not.\n
+    </string>
+    
+    <string name="title_section3">Control tabs</string>
+    <string name="text_section3">
+    	You can change the tab clicking on the RECENT or FAVORITES labels.\n
+    </string>
+    
+	<string name="title_section4">Add to favorites</string>
+	<string name="text_section4">
+		To add to favorites you only have to click on the star shaped icon.\n
+		
+		To delete that favorite connections, you have to click on the selected icon, being deleted from the favorites section.\n
+    </string>
+
+<string name="title_section5">Connection options</string>
+	<string name="text_section5">
+		When you click on a connection from the list, you\'ll be shown an options menu. From that menu you can connect, show the info connection, edit and delete that connection.
+		Also, you can connect clicking in the arrow shapped icon.\n
+    </string>
+    
+	<string name="title_section6">Lateral menu</string>
+	<string name="text_section6">
+		Once the image is loaded, you can access to the options menu by pushing the physical button of the terminal or by dragging from the left of the screen to the lateral menu to be shown.\n
+    </string>
+    
+    <string name="title_section7">How to use</string>
+	<string name="text_section7">
+		To click, just tap the screen.\n
+		To double click, hold pushed with your finger on the screen for 3 seconds.\n
+		To zoom, place your finger over the screen while with another finger you pinch.\n
+    </string>
+    
+	<string name="title_section8">Send special keys</string>
+	<string name="text_section8">
+		To send ctrl, alt, supr, shift events, just select the "Combo keys" key and in the popup window select the keys wanted to be sent.
+		 \n The function keys  (F1, F2, etc) and the other letters can be selected from the central button.\n
+    </string>
+
+</resources>

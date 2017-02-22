@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VNCpp</string>
+    <string name="menu_settings">Herramientas</string>
+    
+    
+    <!-- CONNECTIONS MESSAGES  -->
+    
+    <string name="message_ip">Inserta la IP: </string>
+    <string name="message_port">Inserta puerto de conexión: </string>
+    <string name="message_psw">Contraseña(opcional)</string>
+    <string name="connect">Conectar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="connection_text">Nombre de la conexión</string>
+    <string name="open">Abrir conexión</string>
+    <string name="help">Ayuda</string>
+    <string name="new_connection">Nueva conexión</string>
+    <string name="modify_connectiontext">Modifica conexión</string>    
+    
+    <!-- CONTEXT MENU -->
+    
+    <string name="add_connection">Nueva conexión</string>
+    <string name="delete_connection">Eliminar conexión</string>
+    <string name="edit_connection">Editar conexión</string>
+    <string name="save_connection">Guardar</string>
+    
+    <!-- USER TEXT -->
+    
+    <string name="connections">Conexiones</string>
+    <string name="emptyUsers"></string>
+    <string name="favorites">Favoritos</string>
+    
+        <!-- INFO DIALOG -->
+    
+    <!--<string name="DialogInfo">Información</string>-->
+    <string name="DialogSomethingEmpty">Hay algún campo de la conexión sin rellenar</string>
+    <string name="DialogNonConnectionInfo">Conexión no disponible</string>
+    <string name="DialogNonConnection">Habilite su conexión a la red</string>
+    <string name="DialogTitleExit">Salir</string>
+    <string name="DialogQuestion">¿Estás seguro?</string>
+    <string name="RememberCheckBox">No volver a preguntar</string>
+    <string name="loadingtext">Cargando...</string> 
+    <string name="loadingbodytext">Cargando imagen del servidor</string>
+    
+    
+        <!-- MENU OPTIONS DIALOG -->
+    
+    <string name="DialogTitle">Opciones</string>
+    <string name="DialogConnect">Conectar</string>
+    <string name="DialogInfo">Info</string>
+    <string name="DialogEdit">Editar</string>
+    <string name="DialogDelete">Eliminar</string> 
+    
+        <!-- TEXT TAB -->
+    
+    <string name="recents">RECIENTES</string>
+	<string name="favoritesTab">FAVORITOS</string>
+	
+		<!-- TOAST -->
+    
+    <string name="invalidIp">IP Inválida</string>
+    <string name="invalidPort">PUERTO Inválido</string>
+    <string name="invalidName">Nombre de conexión inválido(ya en uso)</string>
+    <string name="invalidUserOrPass">Usuario o contraseña vacío</string>
+    
+
+    	<!-- MENU CANVAS OPTIONS DIALOG -->
+	<string name="Keyboard">Teclado</string>
+	<string name="disconnect">Desconectar</string> 
+	
+		<!-- DOWN MENU -->
+	<string name="options_down">Opciones</string>
+	<string name="configuration">Configuración</string>
+	<string name="howto">Cómo usar</string>
+	<string name="about">Acerca de</string>
+	
+	<string name="center_image">Centrar Imagen</string>
+	
+		<!-- DIALOG CANVAS -->
+	<string name="server_dialog">Servidor</string>
+	<string name="server_not_found">Servidor no encontrado</string>
+	<string name="server_interrupt">Conexión interrumpida por el servidor</string>
+	<string name="time_info">El servidor no responde</string>
+	<string name="time_exceeded">Tiempo de conexión excedido</string>
+	<string name="memory_info">Sin memoria</string>
+	<string name="memory_exceeded">La memoria del móvil está llena</string>
+	
+		<!-- DIALOG SPECIAL KEYS -->
+	<string name="special_keys_title">Teclas especiales</string>
+	<string name="function_keys_title">Teclas</string>
+	<string name="combo_keys_title">Combo teclas</string>
+	<string name="password_title">Contraseña necesaria</string>
+	<string name="password_dialog">El servidor necesita una contraseña para conectar</string>
+	
+		<!-- TOGGLE MESSAGE -->
+	<string name="titlegeneral">General</string>
+	<string name="titlecontrol">Control</string>
+	<string name="hide_mouse">Ocultar cursor</string>
+	<string name="remember_exit">Recordar salida</string>
+	<string name="yes">Sí</string>
+	<string name="no">No</string>
+	
+		<!-- INFO DIALOGS -->
+	<string name="port">Puerto</string>
+	<string name="Quality">Calidad de imagen</string>
+	<string name="connection">Conexión: </string>
+
+</resources>
