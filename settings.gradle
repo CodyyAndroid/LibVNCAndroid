@@ -1,2 +1,2 @@
-include ':slideLibrary', ':example'
+include ':example'
 include ':library'

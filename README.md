@@ -1,7 +1,8 @@
 # LibVNCAndroid
 
 > An Android Client Library of [Libvncserver](https://github.com/LibVNC/libvncserver) . use it you can combine it into your program easily.
->>  only support to `target 22` (this will be solved as soon as possible　beacause of android 5.0 permission author)
+>>  only support to `target 22`
+>>  you need a light them ex:`theme="@android:style/Theme.Holo.Light"`
 
 # How to use
 ## gradle
