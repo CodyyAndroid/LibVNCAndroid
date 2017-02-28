@@ -4,7 +4,7 @@
 >>  only support to `target 22`
 >>  you need a light them ex:`theme="@android:style/Theme.Holo.Light"`
 
-[!image](https://github.com/CodyyAndroid/LibVNCAndroid/v1.0.1.gif)
+![image](https://github.com/CodyyAndroid/LibVNCAndroid/blob/master/v1.0.1.gif)
 # How to use
 ## gradle
 ### Step 1. Add the JitPack repository to your build file
